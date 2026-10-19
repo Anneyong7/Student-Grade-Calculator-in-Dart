@@ -1,2 +1,2 @@
-# Student-Grade-Calculator-in-Dart
-for educational purposes.
+# Student Grade Calculator
+A simple Dart console application that accepts a student's information and grades, calculates their average, and determines their passing status.
